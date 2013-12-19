@@ -1,0 +1,1 @@
+A simple Ember template with Bootstrap.
